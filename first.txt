@@ -1,5 +1,10 @@
 lool
 hello every one 
 
+<<<<<<< HEAD
 
 hii
+=======
+là j'assure la modification par github
+hii
+>>>>>>> 1460ea9cc34b05948e9109699ad762331b3afe1c
